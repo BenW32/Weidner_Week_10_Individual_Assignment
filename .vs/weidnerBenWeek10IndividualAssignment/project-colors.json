@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7af0421-088b-466c-96dc-f59b867a6f8d": {
+      "ProjectGuid": "a7af0421-088b-466c-96dc-f59b867a6f8d",
+      "DisplayName": "weidnerBenWeek10IndividualAssignment",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
